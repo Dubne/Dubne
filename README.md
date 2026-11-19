@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi, I'm a Python Backend Developer
 
-<!--
-**Dubne/Dubne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build backend applications and REST APIs using Python, Django and Django REST Framework.
 
-Here are some ideas to get you started:
+I enjoy working with backend architecture, databases, API development and solving technical problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Backend**
+- Python
+- Django
+- Django REST Framework
+- REST APIs
+
+**Databases & Tools**
+- PostgreSQL
+- Redis
+- Celery
+- Docker & Docker Compose
+- Git & GitHub Actions
+
+**Testing & Documentation**
+- Pytest
+- Ruff
+- Swagger / OpenAPI
+
+## Featured Projects
+
+### TeamFlowAPI
+
+A team and project management REST API.
+
+- Role-based access control
+- Team and project management
+- Task management and SLA tracking
+- Redis caching and Celery background tasks
+- PostgreSQL and Django ORM
+- Automated tests and CI
+
+[View Repository](https://github.com/Dubne/TeamFLowAPI)
+
+### StoreAPI
+
+An e-commerce REST API built with Django REST Framework.
+
+- JWT authentication
+- Product, category and order management
+- Reviews and custom permissions
+- Service-layer architecture
+- PostgreSQL and Docker
+- Automated testing
+
+[View Repository](https://github.com/Dubne/StoreAPI)
+
+## Currently Improving
+
+- Python and SQL
+- Backend architecture
+- Automated testing
+- Docker and deployment
+- Working with existing codebases
+
+## Contact
+
+GitHub: https://github.com/Dubne
